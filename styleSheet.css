@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(187, 153, 219);
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+    }
+    tr{
+    background-color: #ecd0ff;
+    
+    }
+    td img {
+    display: block;
+    margin: 0 auto; /* This will center the image */
+    }
+
+    table{
+        margin: 0 auto;
+    }
+    h1{
+        font-size: large;
+        text-align: center;
+        text-decoration: underline;
+    }
+    p{
+        font-size: medium;
+    }
