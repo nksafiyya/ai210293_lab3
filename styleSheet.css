@@ -41,7 +41,46 @@ p{
         font-size: medium;
         text-align: center;
     }
+
 img{
-    display: block;
+    display: flexbox;
     margin: 0 auto;
+}
+
+p1{
+    display: flexbox;
+    
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+p2{
+    text-align: right;
+}
+
+li{
+    margin: auto;
+    width: 50%;
+    border: 2px solid rgb(60, 0, 128);
+    padding: 10px;
+    text-align: center;
+    
+}
+
+button{
+    display: flexbox;
+    width: 100px;
+    margin: auto;
+    width: auto;
+    border: 2px solid #280757;
+    padding: 20px;
+}
+nav{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+div{
+    text-align: center;
 }
