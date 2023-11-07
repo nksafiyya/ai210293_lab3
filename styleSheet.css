@@ -3,28 +3,45 @@ body{
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 td, th {
     border: 1px solid #000000;
     text-align: left;
     padding: 8px;
     }
-    tr{
+
+tr{
     background-color: #ecd0ff;
     
     }
-    td img {
+
+td img {
     display: block;
     margin: 0 auto; /* This will center the image */
     }
 
-    table{
+table{
         margin: 0 auto;
     }
-    h1{
-        font-size: large;
+
+h1{
+        font-size: xx-large;
         text-align: center;
         text-decoration: underline;
     }
-    p{
+h2{
+    font-size:150%;
+    text-align: center;
+    text-decoration: wavy;
+    font-style: oblique;
+    color: #280757;
+}
+    
+p{
         font-size: medium;
+        text-align: center;
     }
+img{
+    display: block;
+    margin: 0 auto;
+}
